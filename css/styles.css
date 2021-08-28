@@ -1,0 +1,9 @@
+#corpo {
+	min-height:400px;
+	position:relative;		
+	padding:15px;
+	font-size:14px;
+	color:#333;
+	text-align:justify;
+	line-height:1.5;
+	}
